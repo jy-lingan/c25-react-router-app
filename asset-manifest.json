@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/c25-react-router-app/static/css/main.66e5ea28.chunk.css",
+    "main.js": "/c25-react-router-app/static/js/main.546c73a8.chunk.js",
+    "main.js.map": "/c25-react-router-app/static/js/main.546c73a8.chunk.js.map",
+    "runtime-main.js": "/c25-react-router-app/static/js/runtime-main.46b6b087.js",
+    "runtime-main.js.map": "/c25-react-router-app/static/js/runtime-main.46b6b087.js.map",
+    "static/css/2.4be38407.chunk.css": "/c25-react-router-app/static/css/2.4be38407.chunk.css",
+    "static/js/2.f9f7f5e2.chunk.js": "/c25-react-router-app/static/js/2.f9f7f5e2.chunk.js",
+    "static/js/2.f9f7f5e2.chunk.js.map": "/c25-react-router-app/static/js/2.f9f7f5e2.chunk.js.map",
+    "index.html": "/c25-react-router-app/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/c25-react-router-app/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.66e5ea28.chunk.css.map": "/c25-react-router-app/static/css/main.66e5ea28.chunk.css.map",
+    "static/js/2.f9f7f5e2.chunk.js.LICENSE.txt": "/c25-react-router-app/static/js/2.f9f7f5e2.chunk.js.LICENSE.txt",
+    "static/media/carrousel-3.424560c4.jpg": "/c25-react-router-app/static/media/carrousel-3.424560c4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46b6b087.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.f9f7f5e2.chunk.js",
+    "static/css/main.66e5ea28.chunk.css",
+    "static/js/main.546c73a8.chunk.js"
+  ]
+}
